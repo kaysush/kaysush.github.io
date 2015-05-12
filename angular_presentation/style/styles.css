@@ -40,6 +40,7 @@ font-size: 50px;
 	font-size: 30px;
 }
 
+
 #slide_2{
 
 	text-align: center;
@@ -54,5 +55,28 @@ font-size: 50px;
 #slide_2 img{
 	height: 300px;
  	width: auto;
+}
+
+
+#slide_3{
+
+	text-align: center;
+		font-family: 'Ubuntu', sans-serif;
+}
+
+#slide_3 h3{
+font-size: 35px;
+	
+}
+
+#slide_3 img{
+	margin-top:20px;
+	margin-left:50px;
+	height: 150px;
+ 	width: auto;
+}
+
+#slide_3 .present .transition_visibility{
+
 }
 
