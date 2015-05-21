@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Models - Angular.js</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
+    <script type="text/javascript" src="js/app.js"></script>
+</head>
+
+<body ng-app="myBasicApp">
+    <div ng-controller="BasicController">
+        <b>What's your name ? : </b><input type="text" ng-model="message"/><br/><br/>
+        <span ng-show="message != ''"><b>Hello... (using ng-show) </b> {{message}}</span><br/><br/>
+        <span ng-hide="message == ''"><b>Hello... (using ng-hide) </b> {{message}} </span>
+    </div>
+</body>
+
+</html>

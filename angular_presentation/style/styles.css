@@ -80,3 +80,91 @@ font-size: 35px;
 
 }
 
+
+
+
+
+#slide_4{
+
+		text-align: center;
+		font-family: 'Ubuntu', sans-serif;
+}
+
+#slide_4 h3{
+font-size: 35px;
+}
+
+#slide_4 ul{
+	position:relative;
+	width:450px;
+	margin:auto;
+	text-align:left;
+	font-size:17px;
+}
+
+#slide_4 ul li{
+	width:inherit;
+	margin-top:20px;
+}
+#slide_5{
+
+		text-align: center;
+		font-family: 'Ubuntu', sans-serif;
+}
+
+#slide_5 h3{
+font-size: 35px;
+}
+
+
+#slide_6{
+
+		text-align: center;
+		font-family: 'Ubuntu', sans-serif;
+}
+
+#slide_6 h3{
+font-size: 35px;
+}
+
+
+	
+
+
+#slide_7{
+
+		text-align: center;
+		font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+#slide_7 img{
+	
+	height: 360px;
+ 	width: auto;
+}
+
+#slide_7 h3{
+font-size: 35px;
+}
+
+
+
+#slide_8{
+
+		text-align: center;
+		font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+#slide_8 img{
+	
+	height: 360px;
+ 	width: auto;
+}
+
+#slide_8 h3{
+font-size: 35px;
+}
